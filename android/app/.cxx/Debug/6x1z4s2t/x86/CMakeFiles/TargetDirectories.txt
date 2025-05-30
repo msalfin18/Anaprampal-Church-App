@@ -1,0 +1,2 @@
+C:/flutterapps/anaprampalmtc/android/app/.cxx/Debug/6x1z4s2t/x86/CMakeFiles/edit_cache.dir
+C:/flutterapps/anaprampalmtc/android/app/.cxx/Debug/6x1z4s2t/x86/CMakeFiles/rebuild_cache.dir
